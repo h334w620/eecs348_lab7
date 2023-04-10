@@ -1,0 +1,107 @@
+h1 {
+    margin-left: 350px;
+    font-weight: lighter;
+    margin-top: 50px;
+}
+
+h2 {
+    font-weight:lighter;
+    text-align: left;
+}
+
+h3 {
+    font-weight: lighter;
+    text-align:left;
+}
+
+hr {
+    width: 100px;
+    margin-left: 350px; 
+    border-top: 10px solid #2767ff
+}
+
+li {
+    width: 700px;
+    font-weight:lighter;
+    text-align:left;
+}
+
+.tabbed {
+    margin-left: 100px;
+}
+
+.content {
+    margin-left: 400px;
+    margin-top: 50px;
+}
+
+.shift-body {
+    margin-left: 120px;
+    font-family: Arial, sans-serif;
+}
+
+.ku-header {
+    margin-left: 120px;
+}
+
+.gray-bar {
+    width: 100%;
+    background-color: #f2f5f8;
+    margin-top: -10px;
+    margin-left: -10px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    overflow: auto;
+}
+
+.line-bar {
+    margin-left: 5px;
+    border-left: 1px solid #0051ba;
+    height: 50px;
+}
+
+.blue-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 80px;
+    height: 200%;
+    background-color: #0051ba;
+}
+
+.department {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    text-align: left;
+    font-family: Arial, sans-serif;
+}
+
+#soe {
+    font-size: 10px;
+    margin-bottom: 5px;
+    color: #333333;
+}
+
+#eecs {
+    font-size: 20px;
+    color: #0051ba;
+}
+
+#menu-ku {
+    top: 60px;
+    position: fixed;
+    writing-mode: sideways-lr;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin-left: 30px;
+    margin-top: 0px;
+    letter-spacing: 10px;
+}
+
+#paragraph {
+    width: 300px;
+    border-style: solid;
+    border-width: 5px;
+}
