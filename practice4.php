@@ -1,6 +1,6 @@
 <?php
-  $num = $_GET["size"];
-
+  $num = $_POST["size"];
+  echo "<a href='https://people.eecs.ku.edu/~h334w620/index.html'>BACK TO INDEX</a>";
   echo "<table border='1'>";
   echo "<tr><th>&nbsp;</th>";
 
